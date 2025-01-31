@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int main() {
+   int a,b,sum;
+   printf("chairs in row one =");
+   scanf("%d",&a);
+    printf("chairs in other row =");
+    scanf("%d",&b);
+    printf("addition of one row and other row is=%d",sum);
+
+    return 0;
+}
+
+
+#include <stdio.h>
+
+int main() {
+   int a,b,sum;
+   printf("no of passangers in bus =");
+   scanf("%d",&a);
+    printf("no of passangers got into bus =");
+    scanf("%d",&b);
+    printf("addition of inicial passangers and additional oassangers is=%d",sum);
+
+    return 0;
+}
+
+
+#include <stdio.h>
+
+int main() {
+   int a,b,sum;
+   printf("no of frectional books=");
+   scanf("%d",&a);
+    printf("no of non frictional books =");
+    scanf("%d",&b);
+    printf("addition of frectional books and non frictional  is=%d",sum);
+
+    return 0;
+}
