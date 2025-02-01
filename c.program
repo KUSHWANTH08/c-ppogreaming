@@ -38,3 +38,74 @@ int main() {
 
     return 0;
 }
+#include <stdio.h>
+int main() {
+    float item1, item2, item3, totalExpense;
+    item1 = 1.5;  
+    item2 = 2.0;  
+    item3 = 1.5; 
+    totalExpense = item1 + item2 + item3;
+    printf("Price of item 1: %.2f\n", item1);
+    printf("Price of item 2: %.2f\n", item2);
+    printf("Price of item 3: %.2f\n", item3);
+    printf("Total expense: %.2f\n", totalExpense);
+    if (totalExpense == 5.0) {
+        printf("The total expense is exactly 5 units.\n");
+    } else {
+        printf("The total expense is not 5 units.\n");
+    }
+    return 0;
+}
+#include <stdio.h>
+int main() {
+    float item1, item2, item3, totalExpense;
+    item1 = 1.5;  
+    item2 = 2.0;  
+    item3 = 1.5; 
+    totalExpense = item1 + item2 + item3;
+    printf("Price of item 1: %.2f\n", item1);
+    printf("Price of item 2: %.2f\n", item2);
+    printf("Price of item 3: %.2f\n", item3);
+    printf("Total expense: %.2f\n", totalExpense);
+    if (totalExpense == 5.0) {
+        printf("The total expense is exactly 5 units.\n");
+    } else {
+        printf("The total expense is not 5 units.\n");
+    }
+    return 0;
+} #include <stdio.h>
+int main() {
+    float item1, item2, item3, totalExpense;
+    item1 = 1.5;  
+    item2 = 2.0;  
+    item3 = 1.5; 
+    totalExpense = item1 + item2 + item3;
+    printf("Price of item 1: %.2f\n", item1);
+    printf("Price of item 2: %.2f\n", item2);
+    printf("Price of item 3: %.2f\n", item3);
+    printf("Total expense: %.2f\n", totalExpense);
+    if (totalExpense == 5.0) {
+        printf("The total expense is exactly 5 units.\n");
+    } else {
+        printf("The total expense is not 5 units.\n");
+    }
+    return 0;
+}
+include <stdio.h>
+int main() {
+    float item1, item2, item3, totalExpense;
+    item1 = 1.5;  
+    item2 = 2.0;  
+    item3 = 1.5; 
+    totalExpense = item1 + item2 + item3;
+    printf("Price of item 1: %.2f\n", item1);
+    printf("Price of item 2: %.2f\n", item2);
+    printf("Price of item 3: %.2f\n", item3);
+    printf("Total expense: %.2f\n", totalExpense);
+    if (totalExpense == 5.0) {
+        printf("The total expense is exactly 5 units.\n");
+    } else {
+        printf("The total expense is not 5 units.\n");
+    }
+    return 0;
+}
